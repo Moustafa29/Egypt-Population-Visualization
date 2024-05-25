@@ -57,3 +57,8 @@ Population data is sourced from [Statista](https://www.statista.com/statistics/1
 ## Acknowledgements
 - Population data sourced from [Statista](https://www.statista.com/statistics/1229759/total-population-of-egypt-by-governorate/).
 - Developed using the Processing IDE.
+
+## Output
+
+![Visualization](https://github.com/Moustafa29/Egypt-Population-Visualization/blob/master/output.png)
+
